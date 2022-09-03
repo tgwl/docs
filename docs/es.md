@@ -1,6 +1,6 @@
 # 什么是 Elasticsearch？
 
-> 你懂的，用来搜索（也用来分析）
+> 你懂的，用来搜索（也用来分析） zex
 
 Elasticsearch 是位于 Elastic Stack 中心的分布式搜索和分析引擎。Logstach 和 Beats 促进采集、合计以及充实你的数据并在 Elasticsearch 中存储它们。Kibana 允许你去交互式的探索、可视化和共享对数据的见解，以及监视这个栈（Elastic Stack）。Elasticsearch 是索引、搜索和分析的神奇所在。
 
